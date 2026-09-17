@@ -1,0 +1,68 @@
+{
+  "levels": [
+    {
+      "title": "Урок 1. Числа",
+      "description": "Цифры от одного до десяти",
+      "cards": [
+        { "hanzi": "一", "pinyin": "yī", "translation": "один" },
+        { "hanzi": "二", "pinyin": "èr", "translation": "два" },
+        { "hanzi": "三", "pinyin": "sān", "translation": "три" },
+        { "hanzi": "四", "pinyin": "sì", "translation": "четыре" },
+        { "hanzi": "五", "pinyin": "wǔ", "translation": "пять" },
+        { "hanzi": "六", "pinyin": "liù", "translation": "шесть" },
+        { "hanzi": "七", "pinyin": "qī", "translation": "семь" },
+        { "hanzi": "八", "pinyin": "bā", "translation": "восемь" },
+        { "hanzi": "九", "pinyin": "jiǔ", "translation": "девять" },
+        { "hanzi": "十", "pinyin": "shí", "translation": "десять" }
+      ]
+    },
+    {
+      "title": "Урок 2. Люди и базовые слова",
+      "description": "Местоимения и самые частые слова",
+      "cards": [
+        { "hanzi": "我", "pinyin": "wǒ", "translation": "я" },
+        { "hanzi": "你", "pinyin": "nǐ", "translation": "ты" },
+        { "hanzi": "他", "pinyin": "tā", "translation": "он" },
+        { "hanzi": "她", "pinyin": "tā", "translation": "она" },
+        { "hanzi": "人", "pinyin": "rén", "translation": "человек" },
+        { "hanzi": "大", "pinyin": "dà", "translation": "большой" },
+        { "hanzi": "小", "pinyin": "xiǎo", "translation": "маленький" },
+        { "hanzi": "好", "pinyin": "hǎo", "translation": "хороший; хорошо" },
+        { "hanzi": "是", "pinyin": "shì", "translation": "быть, являться" },
+        { "hanzi": "不", "pinyin": "bù", "translation": "не, нет" }
+      ]
+    },
+    {
+      "title": "Урок 3. Природа",
+      "description": "Простые пиктограммы",
+      "cards": [
+        { "hanzi": "日", "pinyin": "rì", "translation": "солнце; день" },
+        { "hanzi": "月", "pinyin": "yuè", "translation": "луна; месяц" },
+        { "hanzi": "水", "pinyin": "shuǐ", "translation": "вода" },
+        { "hanzi": "火", "pinyin": "huǒ", "translation": "огонь" },
+        { "hanzi": "山", "pinyin": "shān", "translation": "гора" },
+        { "hanzi": "木", "pinyin": "mù", "translation": "дерево" },
+        { "hanzi": "口", "pinyin": "kǒu", "translation": "рот" },
+        { "hanzi": "中", "pinyin": "zhōng", "translation": "середина, центр" },
+        { "hanzi": "天", "pinyin": "tiān", "translation": "небо; день" },
+        { "hanzi": "雨", "pinyin": "yǔ", "translation": "дождь" }
+      ]
+    },
+    {
+      "title": "Урок 4. Первые фразы",
+      "description": "Слова из нескольких иероглифов",
+      "cards": [
+        { "hanzi": "你好", "pinyin": "nǐ hǎo", "translation": "привет, здравствуйте" },
+        { "hanzi": "谢谢", "pinyin": "xièxie", "translation": "спасибо" },
+        { "hanzi": "再见", "pinyin": "zàijiàn", "translation": "до свидания" },
+        { "hanzi": "对不起", "pinyin": "duìbuqǐ", "translation": "извините" },
+        { "hanzi": "没关系", "pinyin": "méi guānxi", "translation": "ничего страшного" },
+        { "hanzi": "中国", "pinyin": "Zhōngguó", "translation": "Китай" },
+        { "hanzi": "朋友", "pinyin": "péngyou", "translation": "друг" },
+        { "hanzi": "学生", "pinyin": "xuésheng", "translation": "ученик, студент" },
+        { "hanzi": "老师", "pinyin": "lǎoshī", "translation": "учитель" },
+        { "hanzi": "喜欢", "pinyin": "xǐhuan", "translation": "нравиться, любить" }
+      ]
+    }
+  ]
+}

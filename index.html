@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Иероглифы</title>
+  <meta name="description" content="Карточки для изучения китайских иероглифов: встроенные уровни и свои наборы из Excel.">
+  <meta name="theme-color" content="#FFFBF7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1A1110" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Иероглифы">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <div id="app">
+    <noscript><p class="center">Для работы приложения нужен JavaScript.</p></noscript>
+  </div>
+  <dialog id="dialog" aria-label="Диалог"></dialog>
+  <input type="file" id="file-input" accept=".xlsx,.csv,.tsv,.txt,.json" hidden>
+</body>
+</html>
